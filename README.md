@@ -1,4 +1,4 @@
-## 💻 Live Preview
+## 🚀 Live Preview
 
-You can view the project live here:  
-👉 [Live Demo](https://ThemedEdits.github.io/Talha/)
+Check out the live version here:  
+👉 [Click to View](https://themededits.github.io/Talha/)
